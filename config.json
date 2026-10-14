@@ -1,7 +1,10 @@
 {
-  "version": 1,
+  "version": 2,
   "extractorArgs": {},
   "skipEngine": [],
   "pinEngine": null,
-  "notices": []
+  "notices": [],
+  "approvedEngines": [
+    "2026.10.10.233141"
+  ]
 }
